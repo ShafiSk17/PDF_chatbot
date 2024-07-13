@@ -1,2 +1,10 @@
 langchain_community
 openai
+streamlit 
+langchain_community.document_loaders.pdf import PyPDFLoader
+langchain.text_splitter import CharacterTextSplitter
+langchain_openai.embeddings import OpenAIEmbeddings
+langchain_community.vectorstores import Chroma
+langchain.chains import ConversationalRetrievalChain
+langchain.memory import ConversationBufferMemory
+langchain_openai
