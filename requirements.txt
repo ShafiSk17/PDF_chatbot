@@ -1,3 +1,0 @@
-streamlit==0.89.0
-langchain
-langchain_openai==1.0.0
