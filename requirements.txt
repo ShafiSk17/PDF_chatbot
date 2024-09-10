@@ -1,10 +1,4 @@
 langchain_community
 openai
-streamlit 
-#langchain_community.document_loaders.pdf
-#langchain.text_splitter
-#langchain_openai.embeddings
-#langchain_community.vectorstores
-#langchain.chains
-#langchain.memory 
+streamlit  
 langchain_openai
